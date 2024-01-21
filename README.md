@@ -12,3 +12,12 @@ This is the scource code for RICE Datathon 2024 - Chervon Track
 Please see our **submit.csv** file for prediction of the test data.
 
 Demo Video: https://www.youtube.com/watch?v=A3xunKkTOk4&feature=youtu.be
+
+### a. Machine Learning Algorithms
+
+|Regressor              | RMSE | R2 |
+| -----------------------| ------- |--------|
+| SVR                    | 125 | 0.47 |
+| KNN                    | 135 | 0.42 | 
+| Random Forest          | 114 | 0.55 | 
+| XGBoost                | 93  | 0.67| 
