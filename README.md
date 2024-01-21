@@ -10,3 +10,4 @@ This is the scource code for RICE Datathon 2024 - Chervon Track
 |Felipe Flores| [:link:](https://github.com/Beyond-Image)|
 
 Please see our **submit.csv** file for prediction of the test data.
+Demo Video: https://www.youtube.com/watch?v=A3xunKkTOk4&feature=youtu.be
