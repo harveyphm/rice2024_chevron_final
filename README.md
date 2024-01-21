@@ -2,6 +2,7 @@
 
 This is the scource code for RICE Datathon 2024 - Chervon Track
 
+### 1. Introduction
 |Team member| Github Link|
 |:---|:-----------:|
 |Harvey Pham| [:link:](https://github.com/harveyphm)|
@@ -13,7 +14,7 @@ Please see our **submit.csv** file for prediction of the test data.
 
 Demo Video: https://www.youtube.com/watch?v=A3xunKkTOk4&feature=youtu.be
 
-### a. Machine Learning Algorithms
+### 2. Machine Learning Algorithms
 
 |Regressor              | RMSE | R2 |
 | -----------------------| ------- |--------|
